@@ -1,5 +1,6 @@
 ##  Live Dashboard  
 👉 https://sandu17767.github.io/customer-retention-cohort-analysis/
+## Visualizations
 
 # 🛒 Customer Retention & Cohort Analysis
 
