@@ -1,19 +1,22 @@
-##  Live Dashboard  
+## 📊 Live Dashboard
 👉 https://sandu17767.github.io/customer-retention-cohort-analysis/
 
-## Visualizations
+
+## 📸 Key Visual Insights
 
 ### ⚠️ Churn Risk Segmentation
-![Churn Risk](Churn%20Risk%20Dashboard.png)
+![Churn Risk](images/churn_risk_dashboard.png)
 
 ### 🔥 80/20 Revenue Distribution
-![80-20](8020%20Segmentation.png)
+![80-20](images/segmentation_8020.png)
 
 ### 📈 Monthly Revenue Trend
-![Revenue](Revenue%20Trend.png)
+![Revenue](images/revenue_trend.png)
 
 ### 🧠 Cohort Retention Heatmap
-![Cohort](Cohort%20Heatmap.png)
+![Cohort](images/cohort_heatmap.png)
+
+---
 
 
 # 🛒 Customer Retention & Cohort Analysis
