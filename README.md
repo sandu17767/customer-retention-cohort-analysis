@@ -7,11 +7,14 @@
 ### ⚠️ Churn Risk Segmentation
 ![Churn Risk](images/churn_risk_dashboard.png)
 
+
 ### 🔥 80/20 Revenue Distribution
 ![80-20](images/segmentation_8020.png)
 
+
 ### 📈 Monthly Revenue Trend
 ![Revenue](images/revenue_trend.png)
+
 
 ### 🧠 Cohort Retention Heatmap
 ![Cohort](images/cohort_heatmap.png)
